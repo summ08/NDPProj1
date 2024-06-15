@@ -1,0 +1,8 @@
+C:\Users\Sümeyye\source\repos\NDPOdev\NDPOdev\obj\Debug\NDPOdev.csproj.AssemblyReference.cache
+C:\Users\Sümeyye\source\repos\NDPOdev\NDPOdev\obj\Debug\NDPOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sümeyye\source\repos\NDPOdev\NDPOdev\obj\Debug\NDPOdev.csproj.CoreCompileInputs.cache
+C:\Users\Sümeyye\source\repos\NDPOdev\NDPOdev\bin\Debug\NDPOdev.exe.config
+C:\Users\Sümeyye\source\repos\NDPOdev\NDPOdev\bin\Debug\NDPOdev.exe
+C:\Users\Sümeyye\source\repos\NDPOdev\NDPOdev\bin\Debug\NDPOdev.pdb
+C:\Users\Sümeyye\source\repos\NDPOdev\NDPOdev\obj\Debug\NDPOdev.exe
+C:\Users\Sümeyye\source\repos\NDPOdev\NDPOdev\obj\Debug\NDPOdev.pdb
